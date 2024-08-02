@@ -2,3 +2,4 @@ streamlit
 aiobotocore==2.1.0
 pandas
 scikit-learn
+seaborn
