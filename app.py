@@ -14,7 +14,7 @@ def load_data():
 df = load_data()
 
 # Sidebar for user input
-st.sidebar.header('User Input Parameters')
+st.sidebar.header('U... Input Parameters')
 
 def user_input_features():
     pregnancies = st.sidebar.slider('Pregnancies', 0, 20, 1)
